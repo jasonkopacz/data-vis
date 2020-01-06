@@ -24,7 +24,7 @@ Census.gov Language Stats
     
     
 # Timeline
-1/6/2020 - Database populated with language data. Use the census information to get the most spoken languages in each of the 5 boroughs. Then take those languages and find the 100 most used words.
-1/7/2020 - Map functionality. Spend most of the time learning d3 and creating a map of the 5 boroughs that is interactive.
-1/8/2020 - Individual borough information works on map click- Tie in the backend data with the frontend map so that clicking on a borough gives you the languages which you can then choose to see the top words used.
-1/9/2020 - Demographic info works- Clicking on a burrough also lists the demographic information of that borough.
+* 1/6/2020 - Database populated with language data. Use the census information to get the most spoken languages in each of the 5 boroughs. Then take those languages and find the 100 most used words.
+* 1/7/2020 - Map functionality. Spend most of the time learning d3 and creating a map of the 5 boroughs that is interactive.
+* 1/8/2020 - Individual borough information works on map click- Tie in the backend data with the frontend map so that clicking on a borough gives you the languages which you can then choose to see the top words used.
+* 1/9/2020 - Demographic info works- Clicking on a burrough also lists the demographic information of that borough.
