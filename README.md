@@ -22,4 +22,9 @@ User's will be able to
 Census.gov Language Stats
     * https://www.census.gov/data/developers/data-sets/language-stats.html
     
-Google Translate API
+    
+# Timeline
+1/6/2020 - Database populated with language data.
+1/7/2020 - Map functionality
+1/8/2020 - Individual borough information works on map click
+1/9/2020 - Demographic info works.
